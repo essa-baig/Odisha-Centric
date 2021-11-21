@@ -1,6 +1,7 @@
 # Odisha-Centric
 
 **Inspiration ->**
+
 We aim to help modernise Odisha's agriculture sector by providing accurate information and easy communication with field officials.
 
 **About the project ->**
